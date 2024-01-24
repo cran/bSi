@@ -1,0 +1,65 @@
+@incollection{conley2002biogenic,
+  title={Biogenic silica},
+  author={Conley, Daniel J and Schelske, Claire L},
+  booktitle={Tracking environmental change using lake sediments},
+  pages={281--293},
+  year={2002},
+  publisher={Springer, Dordrecht}
+}
+
+@article{demaster1981supply,
+  title={The supply and accumulation of silica in the marine environment},
+  author={DeMaster, David J},
+  journal={Geochimica et Cosmochimica Acta},
+  volume={45},
+  number={9},
+  pages={1715--1732},
+  year={1981}
+}
+
+@incollection{demaster1991measuring,
+  title={Measuring biogenic silica in marine sediments and suspended matter},
+  author={DeMaster, David J},
+  booktitle={Marine Particles: Analysis and Characterization},
+  editor={Hurd, David C and Spenser, David W},
+  volume={63},
+  publisher={American Geophysical Union, Washington, D.C.},
+  pages={363--367},
+  year={1991}
+}
+
+@article{hjorth2004effects,
+  title={Effects of freeze-drying on partitioning patterns of major elements and trace metals in lake sediments},
+  author={Hjorth, Tyra},
+  journal={Analytica Chimica Acta},
+  volume={526},
+  number={1},
+  pages={95--102},
+  year={2004}
+}
+
+@article{mortlock1989simple,
+  title={A simple method for the rapid determination of biogenic opal in pelagic marine sediments},
+  author={Mortlock, Richard A and Froelich, Philip N},
+  journal={Deep Sea Research Part A. Oceanographic Research Papers},
+  volume={36},
+  number={9},
+  pages={1415--1426},
+  year={1989}
+}
+
+@article{strickland1952preparation,
+  title={The preparation and properties of silicomolybdic acid. I. The properties of alpha silicomolybdic acid},
+  author={Strickland, John D H},
+  journal={Journal of the American Chemical Society},
+  volume={74},
+  number={4},
+  pages={862--867},
+  year={1952}
+}
+
+@book{strickland1972practical,
+  title={A practical handbook of seawater analysis},
+  author={Strickland, John D H and Parsons, Thomas R},
+  year={1972}
+}
